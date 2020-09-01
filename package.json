@@ -1,0 +1,13 @@
+{
+	"name": "bankin_challenge_backend_connectors",
+	"version": "1.0.0",
+	"description": "Technical test for bankin",
+	"main": "index.js",
+	"dependencies": {
+		"axios": "^0.20.0"
+	},
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "Jay Patel"
+}
